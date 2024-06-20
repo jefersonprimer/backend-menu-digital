@@ -1,12 +1,5 @@
 <h1>Digital Menu - Backend</h1>
 
-<p align="center">
-  <a href="#pre-requisites">Prerequisites</a> •
-  <a href="#how-to-use">Installing the Project</a> •
-  <a href="#related">Frontend</a> •
-  <a href="#license">License</a>
-</p>
-
 <p>This application was developed using **Java Spring and Spring MVC** to create the server, **Spring Data JPA** for data manipulation and persistence, **Lombok** for boilerplate code generation, and Postgres Driver for connecting to the Postgres database.</p>
 
 <h2 id="pre-requisites">💻 Prerequisites</h2>
