@@ -1,57 +1,35 @@
-<h1>Cardápio Digital - Backend</h1>
+<h1>Digital Menu - Backend</h1>
 
 <p align="center">
-  <a href="#pre-requisites">Pré-requisitos</a> •
-  <a href="#how-to-use">Instalando o projeto</a> •
+  <a href="#pre-requisites">Prerequisites</a> •
+  <a href="#how-to-use">Installing the Project</a> •
   <a href="#related">Frontend</a> •
-  <a href="#license">Licença</a>
+  <a href="#license">License</a>
 </p>
 
-Essa aplicação foi desenvolvido durante o video [Construindo aplicação Fullstack do ZERO](https://youtu.be/lUVureR5GqI?si=d-fHBagSO6bjX58G) utilizando **Java Spring e Spring MVC** para criação do servidor, **Spring Data JPA** para manipulação e persistência de dados, **Lombok** para geração de boilerplates e Postgres Driver para realizar a conexão com banco de dados Postgress.
+<p>This application was developed using **Java Spring and Spring MVC** to create the server, **Spring Data JPA** for data manipulation and persistence, **Lombok** for boilerplate code generation, and Postgres Driver for connecting to the Postgres database.</p>
 
-<h2 id="pre-requisites">💻 Requisitos</h2> 
+<h2 id="pre-requisites">💻 Prerequisites</h2>
 
-Para rodar esse projeto você precisa ter o Java instalado na sua máquina.
+<p>To run this project, you need to have Java installed on your machine.</p>
 
-<h2 id="how-to-use"> 🚀 Instalando o projeto</h2>
+<h2 id="how-to-use">🚀 Installing the Project</h2>
 
-Primeiro você deve clonar o repositório,
+<p>First, clone the repository,</p>
 
-```bash
-# Clone o repositório
-$ git clone https://github.com/fernandakipper/crud-java-back
+<pre><code># Clone the repository
+$ git clone https://github.com/jefersonprimer/crud-java-back
 
-# Acesse-o
+# Navigate into it
 $ cd crud-java-back
-```
+</code></pre>
 
-Agora, dentro do IntelliJ, vamos instalar as depedências com o Maven
+<p>Now, within IntelliJ, let's install the dependencies using Maven</p>
 
 <img width="300px" src="./.github/instalar-deps.png">
 
-E por fim, entre no arquivo da classe `CardapioApllication` para executar o projeto
+<p>Finally, open the `CardapioApplication` class file to run the project</p>
 
 <img width="300px" src="./.github/executar.png">
 
-<h2 id="related">🫂 Integração com Frontend</h2>
-
-Para realizar a integração com o Frontend, você pode clonar o projeto e rodar localmente, ou desenvolver você mesmo seguindo o tutorial no Youtube.
-
-👉 [Desenvolvendo o Frontend desse Cardápio Digital com React e Typescript](https://www.youtube.com/watch?v=WHruc3_2z68)
-
-👉 [Link do repositório](https://github.com/Fernanda-Kipper/frontend-cardapio-digital)
-
-
-<h2 id="related">📝 Licença</h2>
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
-
-
-## 📱 Minhas Redes
-
-Meu site: [fernandakipper.com](https://www.fernandakipper.com) &nbsp;&middot;&nbsp; 
-
-Instagram: [@kipper.dev](https://github.com/kipper.devb) &nbsp;&middot;&nbsp;
-
-YouTube [@kipperdev](https://www.youtube.com/@kipperdev) &nbsp;&middot;&nbsp;
-
+<h2 id="related">🫂 Integration with Frontend</h2>
