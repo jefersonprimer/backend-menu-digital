@@ -25,4 +25,3 @@ $ cd crud-java-back
 
 <img width="300px" src="./.github/executar.png">
 
-<h2 id="related"> Integration with Frontend</h2>
