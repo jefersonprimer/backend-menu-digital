@@ -11,7 +11,7 @@
 <p>First, clone the repository,</p>
 
 <pre><code># Clone the repository
-$ git clone https://github.com/jefersonprimer/crud-java-back
+$ git clone https://github.com/jefersonprimer/backend-menu-digital
 
 # Navigate into it
 $ cd crud-java-back
